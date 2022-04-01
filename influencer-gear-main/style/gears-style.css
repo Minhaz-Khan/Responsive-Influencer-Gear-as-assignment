@@ -88,13 +88,11 @@ nav a{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    border: 2px solid #FFFFFF;
+    width: 1100px;
+    height: 110px;
 
    
 }
 .logos{
-    border: 2px solid #FFFFFF;
-    width: 1100px;
-    height: 110px;
-    align-items: center;
-}
 
